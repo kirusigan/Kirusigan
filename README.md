@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @kirusigan  
-- 👀 I’m interested in Python, web development, and databases.  
-- 🌱 I’m currently learning Java and database management.  
-- 💞️ I’m looking to collaborate on open-source IT projects.  
-- 📫 How to reach me: [tkirusigan@gmail.com]  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I’m always excited to learn new technologies and solve real-world problems with code!  
-
+👋 Hi, I’m @kirusigan03
+👀 I’m interested in software development.
+🌱 I’m currently learning Java and Node.js.
+📫 How to reach me: tkirusigan@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I love solving puzzles and exploring new technologies!
+💻 I know HTML, CSS, JavaScript, and React.
